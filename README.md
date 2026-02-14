@@ -1,2 +1,5 @@
-# intermediate-APythonData-v4
-A intermediate level coding project: A Python Data Pipeline variation 4. Authored by Anurag Tewary.
+# A Python Data Pipeline variation 4
+
+This is an auto-generated fallback project because the AI engine was offline.
+
+Authored by Anurag Tewary.
